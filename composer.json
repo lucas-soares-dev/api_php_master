@@ -1,0 +1,8 @@
+{
+    "name":"lucas_dev/api-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
